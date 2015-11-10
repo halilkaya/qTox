@@ -5,7 +5,7 @@
     <name>AVForm</name>
     <message>
         <source>Audio/Video</source>
-        <translation>Ses/Video</translation>
+        <translation>Ses/Görüntü</translation>
     </message>
     <message>
         <source>%1x%2</source>
